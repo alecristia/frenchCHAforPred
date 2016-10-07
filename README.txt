@@ -12,7 +12,7 @@
 - Hammelrath: too old
 - Hunkeler: yes
 - Kern: only child transcribed
-- Leveille
+- Leveille: yes
 - Lyon: yes
 - MTLN: only child transcribed
 - Palasis: some kids bilingual, unclear that this is natural child-directed speech (seems rather elicitation)
@@ -22,3 +22,12 @@
 - Stanford: too little info
 - Yamaguchi: only child transcribed
 - York: 3 different dialects of French- we'll include the one child (Anne) who's French
+
+In short, download
+http://childes.talkbank.org/data/French/Champaud.zip
+http://childes.talkbank.org/data/French/Hunkeler.zip
+http://childes.talkbank.org/data/French/Leveille.zip
+http://childes.talkbank.org/data/French/Lyon.zip
+http://childes.talkbank.org/data/French/Paris.zip
+http://childes.talkbank.org/data/French/Pauline.zip
+http://childes.talkbank.org/data/French/York.zip -- and delete children who are not Anne
